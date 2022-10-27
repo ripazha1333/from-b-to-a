@@ -13,6 +13,7 @@ You can view the modpack depending the branch or all of it
 ### by branch
 
 | Magic | Tecnology |
+| ----- | ----- |
 | Botania | Create |
 |  | ComputerCraft |
 
