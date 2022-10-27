@@ -1,0 +1,161 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
+file = "README.md"
+hash = "b20d5276601c7275e6cb685d77a84fa373b9a625035981242138eae69376fc99"
+
+[[files]]
+file = "config/recipeDisable.json5"
+hash = "135b92e596b7d486a1de863f3a31d61809cc39cc9f8a4dfbc9ad53df3b391089"
+
+[[files]]
+file = "config/skyblockcreator/skyblockcreator.json"
+hash = "14e8732e12f379ccbadecb3b8950ee1c51785d8bf7c5072312fcfd7774e8749a"
+
+[[files]]
+file = "config/skyblockcreator/structures/bamboo.nbt"
+hash = "fd236f093538cde61add64a5a0217c994206080b843e1383030b736a021c4bb1"
+
+[[files]]
+file = "config/skyblockcreator/structures/classic_skyblock.nbt"
+hash = "5f41551ed092a626b3a7d2350154c8dd080f4f6d1fbd37cf2071521d54cb3af3"
+
+[[files]]
+file = "config/skyblockcreator/structures/simple_tree.nbt"
+hash = "7fa32e27984198727ab33ec2b59eaaadc65e8706feba4ccd4d097f870d863501"
+
+[[files]]
+file = "config/skyblockcreator/structures/stoneblock.nbt"
+hash = "5acdfefc4ec9c0b498dd6cb7859e397f6c5872ed5ff59f7904492a89387a0d69"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/functions/checkbonemeal.mcfunction"
+hash = "ec952dba1d76f56cc2dd281d3c14c1bfc6df53c691df7348421b958904d74925"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/functions/sneakscore.mcfunction"
+hash = "77eda95f3a6c4fbeffefa2a2fdd713439de0aab4517f1373d5665e0a37660e7f"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/loot_tables/bonemeal.json"
+hash = "fe4b68fe206b3d06891f5a705d3d089436e21fb501a6a5e3ee72825927a84e29"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/bambu_barrel.json"
+hash = "aa1becb88780e02dd16ff593c072e023ec2ced20baa39c9c0003bc0a87d32e44"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/bambu_planks.json"
+hash = "8930153f38b649337a5ffc54ae7b64864575431662c9ebf4e19d6216ba4e87d7"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/compost/bamboo.json"
+hash = "3e0c0b7d1a64f679e073825a06da28fd632f5c4f2ca26624b27f6395bf1f2ca9"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/early_planks.json"
+hash = "2371bff04551755f3536588414e2fdf310c375b912647765d1d4e4ccc865a391"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/endcake.json"
+hash = "c35030454998035db0633c08237c4581e60f09b3b505e885bc4a71f1fd586cba"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/stone/stone_peble.json"
+hash = "4cd2c0c749f2e1060db0682df4f42c19d94a2fa323b12ef78368cda59845b764"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/minecraft/tags/functions/load.json"
+hash = "4901fb61cbeb24c10821b29b1ed614e1c8bc26a64f96b8b06c994bd037b299bf"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/minecraft/tags/functions/tick.json"
+hash = "2967daad158c7f30746947d72abfc2ee1680f40047d3c2265e6fd44c837a68d9"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/pack.mcmeta"
+hash = "aef559e95120d374a009740d2e1b5f8910f5593bcacc749669e836261f386e0f"
+
+[[files]]
+file = "mods/addadd.pw.toml"
+hash = "357b2fb5e67083512ec326cef82acccb642d2a93b81cb462f299e598b1d4ab0e"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "373c21a5d84b809b2d643de005eeff29694525ca5ee68d4b61c6aeb16ea3a239"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
+metafile = true
+
+[[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "9278183949339092056837d262aeb4dec44f788d1e126609ca2704b9f2251f63"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "5850435527adab62c3e94599030d572d48518cfb025707712cfdbdc077da7079"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "8c34fca924fdd83cd25f10f53329725d711da0a594abb1f1294f5a8ab35821bc"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "1428adfaa0d88e445ace318b2b29102fdb220709d70fe619fffaf5fdd8c59fa3"
+metafile = true
+
+[[files]]
+file = "mods/emicompat.pw.toml"
+hash = "c4bed15089b2301f7d9b8953b115965df74368d7aa603940f81e1bf23bb8e4e2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "21011aebe000cc840f7d1b0f51e31d4a43ee6077a00e07332f1139a71813a5da"
+metafile = true
+
+[[files]]
+file = "mods/fabricae-ex-nihilo.pw.toml"
+hash = "491f03fcc7d589345865f07ea90ffa4a2eb0c20b3019bfda2d799077ae2fc872"
+metafile = true
+
+[[files]]
+file = "mods/more-geodes.pw.toml"
+hash = "f186111838d71dd7214c202d71fe6295f9afa0d183f97878ee7c163a3994c739"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
+metafile = true
+
+[[files]]
+file = "mods/recipedisabler.pw.toml"
+hash = "b520ea0ecbff740d5f3f535e7f30f100f8ed15f0429c66cb049b9fd6f2aa680b"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-creator.pw.toml"
+hash = "bab8bede9ed0c6456da3d85c85c79f0b82de9060368d1d24fbfc924ac86b92be"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "82a6fac6d426feb02dcae1d1b5a357d4322ba2e2c340e767b542df61cfbf1919"
+metafile = true

@@ -1,0 +1,13 @@
+name = "From B to A"
+author = "Ripazha1333"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5970849d9e79abef1b98c8abb5e81b60d69a7d9f2e91586440d6f4416b1f87d5"
+
+[versions]
+fabric = "0.14.10"
+minecraft = "1.18.2"

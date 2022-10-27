@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "x x",
+    "x x",
+    "###"
+  ],
+  "key": {
+    "x": {
+      "item": "twigs:stripped_bamboo_planks"
+    },
+    "#": {
+      "item": "twigs:stripped_bamboo_slab"
+    }
+  },
+  "result": {
+    "item": "fabricaeexnihilo:birch_barrel",
+    "count": 1
+  }
+}
+

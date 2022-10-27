@@ -1,0 +1,22 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item":"minecraft:cake"},
+  "transitionalItem":{"item":"minecraft:cake"},
+  "sequence":[
+    { "type":"create:deploying",
+      "ingredients":[{"item":"minecraft:cake"},[{"item":"minecraft:ender_eye"}]],
+      "results":[{"item":"minecraft:cake"}]
+    },
+    { "type":"create:deploying",
+      "ingredients":[{"item":"minecraft:cake"},[{"item":"minecraft:ender_eye"}]],
+      "results":[{"item":"minecraft:cake"}]
+    },
+    {
+      "type":"create:filling",
+      "ingredients":[{"item":"minecraft:cake"},{"fluid":"fabricaeexnihilo:witchwater","amount":81000}],
+      "results":[{"item":"minecraft:cake"}]
+    }
+  ],
+  "results":[{"item":"fabricaeexnihilo:end_cake"}],
+  "loops":4
+}
