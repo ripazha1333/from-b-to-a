@@ -51,6 +51,10 @@
   "disabled_recipes": [
     "fabricaeexnihilo:end_cake", 
     "fabricaeexnihilo:sieve/stone/stone_pebble", 
-    "fabricaeexnihilo:/[\d,/]*/g"
+    "fabricaeexnihilo:sieve/stone/andesite_pebble",
+    "fabricaeexnihilo:sieve/stone/granite_pebble",
+    "fabricaeexnihilo:sieve/stone/diorite_pebble",
+    "fabricaeexnihilo:hammer/wooden_hammer",
+    "fabricaeexnihilo:hammer/stone_hammer"
   ]
 }
