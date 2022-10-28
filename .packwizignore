@@ -1,0 +1,4 @@
+#ignore markdown files
+*.md
+#license
+LICENSE

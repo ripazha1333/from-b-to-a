@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
-
-[[files]]
-file = "README.md"
-hash = "b20d5276601c7275e6cb685d77a84fa373b9a625035981242138eae69376fc99"
-
-[[files]]
 file = "config/recipeDisable.json5"
-hash = "135b92e596b7d486a1de863f3a31d61809cc39cc9f8a4dfbc9ad53df3b391089"
+hash = "e807cb0b32cf3719133e6c7cf6539f845c45178d22600329be150ed1bde3202b"
 
 [[files]]
 file = "config/skyblockcreator/skyblockcreator.json"
@@ -34,11 +26,11 @@ hash = "5acdfefc4ec9c0b498dd6cb7859e397f6c5872ed5ff59f7904492a89387a0d69"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/functions/checkbonemeal.mcfunction"
-hash = "ec952dba1d76f56cc2dd281d3c14c1bfc6df53c691df7348421b958904d74925"
+hash = "46344b8c85c70c398cf49abdce525942ff2ffdb4818140ae8e4453b5f96c4d85"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/functions/sneakscore.mcfunction"
-hash = "77eda95f3a6c4fbeffefa2a2fdd713439de0aab4517f1373d5665e0a37660e7f"
+hash = "f41c6a47b18032ab523c5c441f1f6bf8d1763828c520b94ca2d37559a8b9bb23"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/loot_tables/bonemeal.json"
@@ -66,7 +58,7 @@ hash = "c35030454998035db0633c08237c4581e60f09b3b505e885bc4a71f1fd586cba"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/stone/stone_peble.json"
-hash = "4cd2c0c749f2e1060db0682df4f42c19d94a2fa323b12ef78368cda59845b764"
+hash = "b3c0bd22c411355c6f8dcd3a78c2aacade1ee1b4510d8773e0db30936cb55a3b"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/minecraft/tags/functions/load.json"
