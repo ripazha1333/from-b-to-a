@@ -26,11 +26,23 @@ hash = "5acdfefc4ec9c0b498dd6cb7859e397f6c5872ed5ff59f7904492a89387a0d69"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/functions/checkbonemeal.mcfunction"
-hash = "46344b8c85c70c398cf49abdce525942ff2ffdb4818140ae8e4453b5f96c4d85"
+hash = "6106984c02b8e48350bade6687519532290f684376b62cbc528c3a121299d2f9"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/functions/easy_diff.mcfunction"
+hash = "0372db78496b7be637f48f5fd6218962f2f7f4735d1b66856f870e28699c9315"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/functions/hard_diff.mcfunction"
+hash = "8269cf3e70961807efdbaddd7113febf423448539fafdcbe4c1b1200381d271d"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/functions/medium_diff.mcfunction"
+hash = "473addc6cc42395db2f877b2088c623b05f5efcc877181036d4ff9e3bf356e21"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/functions/sneakscore.mcfunction"
-hash = "f41c6a47b18032ab523c5c441f1f6bf8d1763828c520b94ca2d37559a8b9bb23"
+hash = "ec1854a2ad1ea6327c0dacf154c6e7310c95ff577deb42c1b003ca81a52a3c2d"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/loot_tables/bonemeal.json"
