@@ -1,0 +1,13 @@
+{
+"type": "minecraft:crafting_shaped",
+"group": "fabricaeexnihilo:hammer",
+"pattern": [
+" #o",
+" /#",
+"/  "],
+"key": {
+"#":{"item":"minecraft:cobblestone"},
+"o":{"item":"minecraft:flint"},
+"/":{"item":"minecraft:stick"}},
+"result":{"item":"fabricaeexnihilo:stone_hammer"}
+}

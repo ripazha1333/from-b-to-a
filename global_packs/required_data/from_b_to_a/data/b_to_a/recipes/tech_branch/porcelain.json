@@ -1,0 +1,7 @@
+{
+"type": "alloy_forgery:forging",
+"inputs": [{"id":"minecraft:sand"},{"id":"minecraft:bone_block"}],
+"output": {"id":"fabricaeexnihilo:porcelain","count":7},
+"min_forge_tier":1,
+"fuel_per_tick": 1
+}

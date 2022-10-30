@@ -2,8 +2,12 @@
     { "rolls":1,
       "entries":[
         { "type":"item",
-          "weight":1,
+          "weight":100,
           "name":"minecraft:bone_meal"
+	},
+	{ "type":"item",
+	  "weight":1,
+	  "name":"minecraft:bone_block"
 	}
       ]
     }

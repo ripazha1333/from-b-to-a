@@ -1,0 +1,6 @@
+{
+"type":"fabricaeexnihilo:sieve",
+"result":"minecraft:oak_sapling",
+"input": "minecraft:dirt",
+"rolls":{"fabricaeexnihilo:string_mesh":[0.05]}
+}

@@ -1,0 +1,5 @@
+{
+"type": "botania:pure_daisy",
+"input": {"type": "block","block":"minecraft:oak_sapling"},
+"output": {"name":"minecraft:pumpking"}
+}
