@@ -4,7 +4,7 @@
 "pattern": [
 " # ",
 " /#",
-"/ "],
+"/  "],
 "key": {"/":{"item":"minecraft:stick"},"#":{"item":"create:iron_sheet"}},
-"result": {"item":"fabricaeexnihilo:stone_hammer"}
+"result": {"item":"fabricaeexnihilo:iron_hammer"}
 }
