@@ -77,6 +77,18 @@ file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/
 hash = "e9a4df06f46cee7d7bbe8f841d1316cb2c247041f09f80c7a3bd4ee54330aacc"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/budding_amethyst.json"
+hash = "435011603d2e95056122c6d93eb5b8d1f98ecbc1b3ed297bf05bcab4ac6c5801"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/budding_citrine.json"
+hash = "6445e98040c30e8fa7e8dbbba522a605f08e4fade6915e981d39804fa3a42540"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/budding_topaz.json"
+hash = "8f71574747db4fd8f2cde5cf590663d76439f99a217566787e6e3dc21c3be3f3"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/pumpkin.json"
 hash = "94583a37faed5b0dde927df7bd9323aefac4392b70aebe1ccca17b72f22733a2"
 
@@ -161,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/fabricae-ex-nihilo.pw.toml"
 hash = "491f03fcc7d589345865f07ea90ffa4a2eb0c20b3019bfda2d799077ae2fc872"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "cbf584a72e7841f02a37c84bd52f768b6de3c0db345262fbf5d93e8b4bb0eb04"
 metafile = true
 
 [[files]]

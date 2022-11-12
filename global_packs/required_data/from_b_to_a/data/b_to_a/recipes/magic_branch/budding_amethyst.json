@@ -1,0 +1,21 @@
+{
+"type": "spectrum:pedestal",
+"time": 12000,
+"tier": "basic",
+"cyan": 1,
+"magenta": 0,
+"yellow": 1,
+"white": 0,
+"black": 0,
+"experience": 1.0,
+"pattern":[
+" x ",
+"xox",
+" x "
+],
+"key":{
+"x":{"item":"minecraft:amethyst_shard"},
+"o":{"item":"minecraft:amethyst_block"}
+},
+"result": {"item":"minecraft:budding_amethyst","count":1}
+}

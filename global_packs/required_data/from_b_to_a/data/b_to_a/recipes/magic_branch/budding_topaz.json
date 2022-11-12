@@ -1,0 +1,7 @@
+{
+"type": "fabricaeexnihilo:leaking",
+"block": "spectrum:topaz_block",
+"fluid": "minecraft:lava",
+"amount": 81000,
+"result": "spectrum:budding_topaz"
+}

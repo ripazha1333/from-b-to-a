@@ -1,0 +1,8 @@
+{
+"type": "botania:terra_plate",
+"mana": 500000,
+"ingredients": [
+{"item": "spectrum:citrine_block"}
+],
+"result": {"item": "spectrum:budding_citrine"}
+}
