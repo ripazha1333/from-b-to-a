@@ -134,6 +134,11 @@ hash = "5850435527adab62c3e94599030d572d48518cfb025707712cfdbdc077da7079"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "8c34fca924fdd83cd25f10f53329725d711da0a594abb1f1294f5a8ab35821bc"
 metafile = true
@@ -164,6 +169,11 @@ hash = "f186111838d71dd7214c202d71fe6295f9afa0d183f97878ee7c163a3994c739"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "e9c12e125dc3e4f5d9172a5866655be12f558c6a58c3753aa3f7a9db4c365efc"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
 metafile = true
@@ -174,8 +184,18 @@ hash = "b520ea0ecbff740d5f3f535e7f30f100f8ed15f0429c66cb049b9fd6f2aa680b"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "99005398da800d641c7af808a9b56093f1c07e37540d6ec670afd4180bd84852"
+metafile = true
+
+[[files]]
 file = "mods/skyblock-creator.pw.toml"
 hash = "bab8bede9ed0c6456da3d85c85c79f0b82de9060368d1d24fbfc924ac86b92be"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "4785f5b4b9a75755565abbe3c43e13b4c07bc32c48c540f24a137e134bba3ee5"
 metafile = true
 
 [[files]]
