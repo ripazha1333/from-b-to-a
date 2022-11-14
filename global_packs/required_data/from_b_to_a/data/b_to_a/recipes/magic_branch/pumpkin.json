@@ -1,5 +1,5 @@
 {
 "type": "botania:pure_daisy",
-"input": {"type": "block","block":"minecraft:oak_sapling"},
-"output": {"name":"minecraft:pumpkin"}
+"input": {"type": "block","block":"fabricaeexnihilo:infested_oak_leaves"},
+"output": {"name":"minecraft:carved_pumpkin"}
 }
