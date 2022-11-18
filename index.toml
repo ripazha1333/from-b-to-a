@@ -61,6 +61,10 @@ file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/compost/bambo
 hash = "3e0c0b7d1a64f679e073825a06da28fd632f5c4f2ca26624b27f6395bf1f2ca9"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/compost/bundled_bamboo.json"
+hash = "9dd5d427b3a223d1c9d59f2356ab8ea7ed3cb06a20c548c9c761572db5eec490"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/early_planks.json"
 hash = "2371bff04551755f3536588414e2fdf310c375b912647765d1d4e4ccc865a391"
 
@@ -93,8 +97,12 @@ file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/
 hash = "8f71574747db4fd8f2cde5cf590663d76439f99a217566787e6e3dc21c3be3f3"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/fel_pumpkin.json"
+hash = "f351dbf26852b97299c693482b296fd143126419a0d01eb6c8a79a525e7fc529"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/iron_bars.json"
-hash = "567d5515e7b470ac03eea19cc88b64f1dfc5ac0828ed772f5aae7e407e673f28"
+hash = "5c58d25b1cf86a2b1eca9fe143421025692daa6f4dcef64d10a6630d788e2d22"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/pumpkin.json"
@@ -121,10 +129,6 @@ file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/plants/
 hash = "b07f2971e21d8b499476d790621d282dd0129c9b418d05af749ee5ce573e5283"
 
 [[files]]
-file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/plants/seeds.json"
-hash = "b8f7a7ff8131ac71503f1a9cbb77be73d3ae36344d904af827470c8607d84a60"
-
-[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/stone/stone_peble.json"
 hash = "b3c0bd22c411355c6f8dcd3a78c2aacade1ee1b4510d8773e0db30936cb55a3b"
 
@@ -133,8 +137,16 @@ file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/tech_branch/e
 hash = "c35030454998035db0633c08237c4581e60f09b3b505e885bc4a71f1fd586cba"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/tech_branch/iron_from_forge.json"
+hash = "c6114f7f9be2257f1b82d0256d008035f6e1051f0696e3483c08bf5cf0a2f3e7"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/tech_branch/porcelain.json"
 hash = "3f4223c15f521421cb73381a3ce2a2369d6d6b27136e8b4025f469416ca1f34e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/tech_branch/stone_forge.json"
+hash = "f5ef3fc4b98546eac13d4d962d34bb9cb133720e5d28e016286a5fa95ad7d472"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/minecraft/tags/functions/load.json"

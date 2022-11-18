@@ -1,5 +1,5 @@
 {
 "type":"botania:pure_daisy",
-"input":{"type":"block","block":"minecraft:oak_fence"},
+"input":{"type":"block","block":"twigs:stripped_bamboo_fence"},
 "output":{"name":"minecraft:iron_bars"}
 }
