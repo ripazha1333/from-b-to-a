@@ -1,0 +1,6 @@
+{
+"type":"minecraft:crafting_shaped",
+"pattern": ["###","#o#","###"],
+"key":{"#":{"item":"minecraft:stone_bricks"},"o":{"item":"minecraft:furnace"}},
+"result":{"item":"alloy_forgery:stone_bricks_forge_controller"}
+}

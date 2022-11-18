@@ -1,0 +1,7 @@
+{
+"type":"alloy_forgery:forging",
+"inputs":[{"item":"minecraft:rotten_flesh"},{"item":"minecraft:rotten_flesh"},{"item":"minecraft:spider_eye"},{"item":"minecraft:ender_pearl"}],
+"ouputs":{"id":"minecraft:iron_nuggets","count":5},
+"min_forge_tier":1,
+"fuel_per_tick":2
+}
