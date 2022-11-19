@@ -1,0 +1,6 @@
+{
+"type": "fabricaeexnihilo:alchemy",
+"reactant": "#c:blood",
+"catalyst": "minecraft:bone_block",
+"result": {"id":"item","stack":"minecraft:netherrack"}
+}

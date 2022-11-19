@@ -113,6 +113,22 @@ file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/
 hash = "dac3a5d48ce2dd75a199e90db0b664a1a24331612b0400638517e1f4ed2e5102"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/blood.json"
+hash = "ca92512e09c57631d785dd924ec91d315e21131be3b2edf0bfe92ecfc2fb05b9"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/crimson_seeds.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/netherrack_bone.json"
+hash = "9a956fc24f260ca2f2cd18cb0bf02594ff179eac71889e6b3e25062dc368797e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/warped_seeds.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/gemstones/amethyst.json"
 hash = "8404b9a0b1c55d6df0af2cabb14303db6cd8b1ef8b61e2dea627e7ddd755eb7f"
 
