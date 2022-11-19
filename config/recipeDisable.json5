@@ -57,6 +57,13 @@
     "fabricaeexnihilo:hammer/wooden_hammer",
     "fabricaeexnihilo:hammer/stone_hammer",
     "fabricaeexnihilo:sieve/plant/grass_seeds",
-    "fabricaeexnihilo:sieve/ore/amethyst_from_crushed_calcite"
+    "fabricaeexnihilo:sieve/ore/amethyst_from_crushed_calcite",
+    "fabricaeexnihilo:sieve/plant/melon_seeds",
+    "fabricaeexnihilo:sieve/plant/pumpkin_seeds",
+    "fabricaeexnihilo:sieve/plant/lilac_seeds",
+    "fabricaeexnihilo:sieve/plant/peony_seeds",
+    "fabricaeexnihilo:sieve/plant/mycelium_seeds",
+    "fabricaeexnihilo:sieve/plant/rose_bush_seeds",
+    "fabricaeexnihilo:sieve/plant/sunflower_seeds"
   ]
 }
