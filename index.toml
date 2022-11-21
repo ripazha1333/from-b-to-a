@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/recipeDisable.json5"
-hash = "7e220d782ac08843841946abeafe338bef67f158c43a62468e45eb87a53eac13"
+hash = "6b69484016ff16569b28bdb1fce662da885c15914c8f4cd81e2c741f7b30bc65"
 
 [[files]]
 file = "config/skyblockcreator/skyblockcreator.json"
@@ -74,7 +74,7 @@ hash = "f9c21137d310f3b1635ff6ba86e480dfa15f996a0121a67db63200818678d6bf"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/hammers/stone_hammer.json"
-hash = "7700e838c2a69fd88efc6f41cd4f168ad115b5156a807dca9444f346fea61d84"
+hash = "41f096507cec47591e8dbbc0699e76a9ec3e72605a9601f200ce1429f326438c"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/blaze_lamp.json"
@@ -94,7 +94,7 @@ hash = "6445e98040c30e8fa7e8dbbba522a605f08e4fade6915e981d39804fa3a42540"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/budding_topaz.json"
-hash = "8f71574747db4fd8f2cde5cf590663d76439f99a217566787e6e3dc21c3be3f3"
+hash = "3487b7f8125ff3fe5949bc39c6d756ab7004c82a256a50b0a726de13a80bc95e"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/fel_pumpkin.json"
@@ -117,7 +117,7 @@ file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/blood.
 hash = "ca92512e09c57631d785dd924ec91d315e21131be3b2edf0bfe92ecfc2fb05b9"
 
 [[files]]
-file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/crimson_seeds.json_"
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/crimson_seeds.json"
 hash = "5a08984be85776101c4d45a836e254d122a1cca7ed1cc0ce851788191db5ad53"
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
-hash = "373c21a5d84b809b2d643de005eeff29694525ca5ee68d4b61c6aeb16ea3a239"
+hash = "fb06b7606250d5efc72cb43fcd862f1ff1be79fac783acea28055f9ff0681147"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9384012f50f3f22f4d60bbe0fa68232630a684550a90028abadc8160f54d7318"
+hash = "145dbcbac757622ec415041cdcabf07654981f84d5044c8fc16f6aa88a03ccb3"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "e5fcc55ff7014d12e64b9e7616287706af773fa46f59675605daa860e6fe0c92"
+hash = "fe52f97f77793c40a84fe7955b62ebdcbe3d04a767ae3bb5f0bad8c2853a321f"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "4785f5b4b9a75755565abbe3c43e13b4c07bc32c48c540f24a137e134bba3ee5"
+hash = "79b7645b7e66fb855ea0ef02e2aa19097403a67c538ec2ce0432cca43e0ccea7"
 metafile = true
 
 [[files]]
