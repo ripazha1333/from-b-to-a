@@ -199,6 +199,16 @@ hash = "fb06b7606250d5efc72cb43fcd862f1ff1be79fac783acea28055f9ff0681147"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ccf1f3f81ce91c460704f8371e1a737343701eb5bd64d1937b18e26d5816b522"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "c3d163564b8c89694cdcc76060ccd67ea9178a08e18e5d57243a704809f4defc"
+metafile = true
+
+[[files]]
 file = "mods/botania.pw.toml"
 hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
 metafile = true
@@ -215,12 +225,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
+hash = "8f07b2408013a7217caacec87c977635fdf94eb21a10bf281f2bba67ff7c4dc1"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "8c34fca924fdd83cd25f10f53329725d711da0a594abb1f1294f5a8ab35821bc"
+hash = "915c711c779fdec6e36c32cb8aec043eb15e2bab6ce3ed51290cbaeb10f7ec7a"
 metafile = true
 
 [[files]]
@@ -229,8 +239,23 @@ hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
 metafile = true
 
 [[files]]
+file = "mods/custom-machinery.pw.toml"
+hash = "4ee37202a57fe127403f25bff244b17cc4bc763cc9e787934850cf3057ffe587"
+metafile = true
+
+[[files]]
+file = "mods/dcwa.pw.toml"
+hash = "60134dc6ce2d30c5a16367a1b21d32d3964f5fd508654d7f4232471d9aad8163"
+metafile = true
+
+[[files]]
+file = "mods/deep-mob-learning-backported.pw.toml"
+hash = "679ef87ad4886653ac8a1f37d72d45d7c78a10b541b3f09653fa3a49b661bbfc"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
-hash = "3da3015af03bf49a038ec7d17ccf1ea7219f9a6de05e5609cc76927c3a85fd67"
+hash = "fee89344345b123f647dfd4b16f0f2eef9ce2bd91a5f548a55b4ae3a293a7191"
 metafile = true
 
 [[files]]
@@ -239,8 +264,18 @@ hash = "c4bed15089b2301f7d9b8953b115965df74368d7aa603940f81e1bf23bb8e4e2"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "ef9ab1a9351ad20f6c5c061caa409d4024bcf8ad498dc4994d897ca1988c61ff"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "145dbcbac757622ec415041cdcabf07654981f84d5044c8fc16f6aa88a03ccb3"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
 metafile = true
 
 [[files]]
@@ -250,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "fe52f97f77793c40a84fe7955b62ebdcbe3d04a767ae3bb5f0bad8c2853a321f"
+hash = "8ac01ae9ab2554868fec5a569eaa18a75153f01634f6b71f11e7f7d77732448c"
 metafile = true
 
 [[files]]
@@ -274,6 +309,16 @@ hash = "fdebc54ee80be90757fae74011431710cf07d1df5ffaf81678a5c2c8f2d32a2b"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "d48d6c158fa7a0af3e5b295c9959a3290d28092daa9eca506162014b06b18543"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "2c410266c2e5763c5ebaaedbe68519920e857c8d6edac44aadefa2b407d016f5"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
@@ -281,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "9009a697370bb3798834b690eda2c418799e4e7bd4f3439cf767bbf0cd345ab3"
+metafile = true
+
+[[files]]
+file = "mods/megane.pw.toml"
+hash = "1d15b4f366ffc9430ab6650362448777f8a99f585be792307cf329bf1bff6d4b"
 metafile = true
 
 [[files]]
@@ -314,6 +364,11 @@ hash = "99005398da800d641c7af808a9b56093f1c07e37540d6ec670afd4180bd84852"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "4f4d527dd8856b5f88cf73ab47f83585a55a151b67b8274e48ef4698b18ab508"
+metafile = true
+
+[[files]]
 file = "mods/skyblock-creator.pw.toml"
 hash = "bab8bede9ed0c6456da3d85c85c79f0b82de9060368d1d24fbfc924ac86b92be"
 metafile = true
@@ -325,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "79b7645b7e66fb855ea0ef02e2aa19097403a67c538ec2ce0432cca43e0ccea7"
+hash = "8c45621ec8b43b034e6855319606fd7436ebe4f3329fa6c7e86325574c0d28a7"
 metafile = true
 
 [[files]]
@@ -341,4 +396,9 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "82a6fac6d426feb02dcae1d1b5a357d4322ba2e2c340e767b542df61cfbf1919"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "c23e19e793df2ee017103c37c239fb4d7d888641e2f0a02c933f377d9c905390"
 metafile = true
