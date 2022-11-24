@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/recipeDisable.json5"
-hash = "6b69484016ff16569b28bdb1fce662da885c15914c8f4cd81e2c741f7b30bc65"
+hash = "29be4e625aee8a7803cc0996267e2bdb0201321c72acea7732ab1e5b4a08f801"
 
 [[files]]
 file = "config/skyblockcreator/skyblockcreator.json"
@@ -141,12 +141,24 @@ file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/gemston
 hash = "91a17a6422d50b59be67d67ce396b6edca677ea03a55cd23b8341ccc292f6e71"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/ore/diamond.json"
+hash = "175d30149ed065142be1f0162d1567b07b24d06c0afa99a10c720e35812859ff"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/ore/emerald.json"
+hash = "3b56c028105c78ffee8ac4e1d1663bf633fc71fdde059fd7cf089ad7ed5abd6c"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/plants/oak_sappling.json"
 hash = "b07f2971e21d8b499476d790621d282dd0129c9b418d05af749ee5ce573e5283"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/stone/andesite_peeble.json"
 hash = "99b681db73486cf8d7cdb5ed9f60b40f17a1fc911cceb291777cae1596880fdc"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/stone/calcite_peeble.json"
+hash = "766be0c02b7c5837d83fd943e753929c0c292af86e7573f80e983de65997c202"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/stone/diorite_peeble.json"
@@ -166,7 +178,7 @@ hash = "c35030454998035db0633c08237c4581e60f09b3b505e885bc4a71f1fd586cba"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/tech_branch/iron_from_forge.json"
-hash = "25302a0ad3e4a7c27df6d6e9dec72b9f4503edd2a3fbd6b2d872b873b2b49cbf"
+hash = "0c6b5c6740212a5b794e7b40ec87e3ce01cec51aed753dbf0e76d896742ba75e"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/tech_branch/porcelain.json"
