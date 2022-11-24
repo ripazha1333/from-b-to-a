@@ -1,0 +1,9 @@
+{
+"type": "fabricaeexnihilo:sieve",
+"result": "spectrum:quitoxic_reeds",
+"input": "minecraft:clay",
+"fluid": "#fabricaeexnihilo:true_water",
+"rolls": {
+"fabricaeexnihilo:flint_mesh": [0.1,0.1,0.1,0.1]
+}
+}

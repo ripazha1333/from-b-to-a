@@ -1,0 +1,11 @@
+{
+"type": "fabricaeexnihilo:sieve",
+"result": "spectrum:mermaids_brush",
+"input": "minecraft:dirt",
+"fluid": "#fabricaeexnihilo:true_water",
+"rolls": {
+"fabricaeexnihilo:copper_mesh":[0.02],
+"fabricaeexnihilo:gold_mesh":[0.04],
+"fabricaeexnihilo:emerald_mesh":[0.08]
+}
+}

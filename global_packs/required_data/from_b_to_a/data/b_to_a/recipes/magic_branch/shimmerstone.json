@@ -1,0 +1,10 @@
+{
+"type": "fabricaeexnihilo:sieve",
+"result": "spectrum:sparklestone_gem",
+"input": "minecraft:gravel",
+"rolls": {
+"fabricaeexnihilo:copper_mesh":[0.15,0.1],
+"fabricaeexnihilo:gold_mesh": [0.25,0.2],
+"fabricaeexnihilo:emerald_mesh": [0.4,0.25,0.1]
+}
+}
