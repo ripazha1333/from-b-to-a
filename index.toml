@@ -105,8 +105,20 @@ file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/
 hash = "5c58d25b1cf86a2b1eca9fe143421025692daa6f4dcef64d10a6630d788e2d22"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/mermaid_bush.json"
+hash = "fc65204520164b06e0557644c825aae0a33f86632498d8a3c790d9e078309431"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/pumpkin.json"
 hash = "f1f79eccd5f2dbac3b440f281238cb190c80e2005aca9f9d16499671e18349fb"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/quitoxic_reeds.json"
+hash = "e40926b4d90d08be213537435658d67a3fe41c9ba8d77407f053d6dace0cf3d7"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/shimmerstone.json"
+hash = "da303efcdb345e3e0c950d5f28e96befe6817f8090ebf164dadc416b4008cb2d"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/water.json"
@@ -211,6 +223,11 @@ hash = "fb06b7606250d5efc72cb43fcd862f1ff1be79fac783acea28055f9ff0681147"
 metafile = true
 
 [[files]]
+file = "mods/architects-palette-fabric.pw.toml"
+hash = "5d068ee053bfe3b7815d9b28b12144aaf65f9253247eff40480aacf3c2a8e02e"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ccf1f3f81ce91c460704f8371e1a737343701eb5bd64d1937b18e26d5816b522"
 metafile = true
@@ -226,6 +243,11 @@ hash = "37a75aa36e869ed6aeac736e5718e2e43c3381f16707ac1fdaab8a2b7c3da9c8"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.pw.toml"
+hash = "1c22e5fa95bee0f58c6fb2a3ead7631d8a354d027e827c7e463703fc15cacd13"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "9278183949339092056837d262aeb4dec44f788d1e126609ca2704b9f2251f63"
 metafile = true
@@ -238,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "8f07b2408013a7217caacec87c977635fdf94eb21a10bf281f2bba67ff7c4dc1"
+metafile = true
+
+[[files]]
+file = "mods/connectible_chains.pw.toml"
+hash = "0af80b01b702c1a4dcb1e3ecd3b2d58a6ab6f2747365f13751e08734871ced5d"
 metafile = true
 
 [[files]]
@@ -346,6 +373,11 @@ hash = "1d15b4f366ffc9430ab6650362448777f8a99f585be792307cf329bf1bff6d4b"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "c013f8fdeb6a922df3f41887f712e297146f11c3775e35a5cefe8d3023d21782"
+metafile = true
+
+[[files]]
 file = "mods/more-geodes.pw.toml"
 hash = "f186111838d71dd7214c202d71fe6295f9afa0d183f97878ee7c163a3994c739"
 metafile = true
@@ -356,8 +388,18 @@ hash = "b99c1cae57386de36e5a6dc1d247057d0d5c0e9c5a5563b67d078ea7975919a9"
 metafile = true
 
 [[files]]
+file = "mods/notebook.pw.toml"
+hash = "0da6c7b23a991aefa7abe9c43afba933907a286aa3afa89cda327f8c2e1ba6bc"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "e9c12e125dc3e4f5d9172a5866655be12f558c6a58c3753aa3f7a9db4c365efc"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "975c10ed9bc04384e907de186036925c87c65968870f6f5507cdc4741615953c"
 metafile = true
 
 [[files]]
