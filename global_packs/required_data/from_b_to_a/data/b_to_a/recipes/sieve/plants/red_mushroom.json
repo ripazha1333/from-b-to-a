@@ -1,0 +1,8 @@
+{
+"type": "fabricaeexnihilo:sieve",
+"input": "minecraft:coarse_dirt",
+"result": "minecraft:red_mushroom",
+"rolls": {
+"fabricaeexnihilo:flint_mesh": [0.005]
+}
+}

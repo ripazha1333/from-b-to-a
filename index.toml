@@ -161,8 +161,20 @@ file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/ore/eme
 hash = "3b56c028105c78ffee8ac4e1d1663bf633fc71fdde059fd7cf089ad7ed5abd6c"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/plants/brown_mushroom.json"
+hash = "b19a78a20a0874a68212301820c7ec606ebcb71c34a34840fc05638db8c66cd9"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/plants/grass.json"
+hash = "4755b9ca6bd04cffeb723dba5f26b5da299fbc03fa50e19a7e6b81b1f74c9a21"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/plants/oak_sappling.json"
 hash = "b07f2971e21d8b499476d790621d282dd0129c9b418d05af749ee5ce573e5283"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/plants/red_mushroom.json"
+hash = "0ab165a797c5f72ec4a33adc15efa0829230f76e67e544d6ab28f239443e9eea"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/stone/andesite_peeble.json"
@@ -370,11 +382,6 @@ metafile = true
 [[files]]
 file = "mods/megane.pw.toml"
 hash = "1d15b4f366ffc9430ab6650362448777f8a99f585be792307cf329bf1bff6d4b"
-metafile = true
-
-[[files]]
-file = "mods/modern-industrialization.pw.toml"
-hash = "c013f8fdeb6a922df3f41887f712e297146f11c3775e35a5cefe8d3023d21782"
 metafile = true
 
 [[files]]
