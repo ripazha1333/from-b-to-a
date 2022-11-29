@@ -1,13 +1,13 @@
 name = "Deep Mob Learning: Backported"
-filename = "deepmoblearning-backported-0.5.7-BETA-build2.jar"
+filename = "deepmoblearning-backported-0.5.7-BETA-build3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tlALNajO/versions/RcxcHj3v/deepmoblearning-backported-0.5.7-BETA-build2.jar"
+url = "https://cdn.modrinth.com/data/tlALNajO/versions/SFnr9PoR/deepmoblearning-backported-0.5.7-BETA-build3.jar"
 hash-format = "sha1"
-hash = "df8f4efbe5f5e710d2d692c312e0e73e6082efe9"
+hash = "f6207d7e9f6f0e2e2e6ef630ccd7eef664c47c4c"
 
 [update]
 [update.modrinth]
 mod-id = "tlALNajO"
-version = "RcxcHj3v"
+version = "SFnr9PoR"

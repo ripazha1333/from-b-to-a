@@ -1,0 +1,62 @@
+{
+"name": "blocks.mindustry.kyln",
+"appearance": {
+"idle": {"lightlevel":0},
+"running": {"lightlevel":7}
+},
+"components": [
+{
+"type": "custommachinery:item",
+"id": "fuel",
+"filter": ["minecraft:coal"],
+"whitelist": true,
+"mode": "input",
+"variant": "custommachinery:fuel"
+},
+{
+"type": "custommachinery:item",
+"id": "inputsand",
+"filter": ["minecraft:sand"],
+"whitelist": true,
+"mode": "input"
+},
+{
+"type": "custommachinery:item",
+"id": "input1",
+"mode": "input"
+},
+{
+"type": "custommachinery:item",
+"id": "input2",
+"mode": "input"
+},
+{
+"type": "custommachinery:fluid",
+"capacity": 4000,
+"id": "glass",
+"mode": "output"
+}
+],
+"gui": [
+{
+"type": "custommachinery:fluid",
+"x": 200,
+"y": 20,
+"id": "glass"
+},
+{
+"type": "custommachinery:fuel",
+"x": 100,
+"y": 60
+},
+{
+"type": "custommachinery:progress",
+"x": 140,
+"y": 50
+},
+{"type": "custommachinery:player_inventory",
+"x": 50,
+"y": 85
+}
+]
+}
