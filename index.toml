@@ -126,15 +126,27 @@ hash = "dac3a5d48ce2dd75a199e90db0b664a1a24331612b0400638517e1f4ed2e5102"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/blood.json"
-hash = "ca92512e09c57631d785dd924ec91d315e21131be3b2edf0bfe92ecfc2fb05b9"
+hash = "b8276786c9e8fa958c0a4e7d26c9aba313abd6d0418d9039bbbef538ad6cf2f5"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/crimson_seeds.json"
 hash = "5a08984be85776101c4d45a836e254d122a1cca7ed1cc0ce851788191db5ad53"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/crushed_netherack.json"
+hash = "e15dab0b755a1383f4495f8c6d717444f222e707fddaef659cc99e8935e2bf2e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/netherack_blood.json"
+hash = "7dc4266c23b056cd79e5ebec0e7c401703692d3e4c81f9a4c3c75e39cbdeb20d"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/netherrack_bone.json"
 hash = "9a956fc24f260ca2f2cd18cb0bf02594ff179eac71889e6b3e25062dc368797e"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/netherwart.json"
+hash = "44cb82fb0746e2d63bebd7d58ae09c1c0085094bba61632a85d2ea69dddc9ec0"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/warped_seeds.json"

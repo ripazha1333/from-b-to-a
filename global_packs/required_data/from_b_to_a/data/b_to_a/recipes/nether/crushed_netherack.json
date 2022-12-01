@@ -1,0 +1,12 @@
+{
+"type": "spectrum:anvil_crushing",
+"ingredient": {"item": "minecraft:red_nether_bricks"},
+"crushedItemsPerPointOfDamage": 0.5,
+"experience": 1,
+"result": {
+"item": "fabricaeexnihilo:crushed_netherrack",
+"count": 3
+},
+"particleEffectIdentifier": "cloud",
+"soundEventIdentifier": "block.nether_brick.break"
+}

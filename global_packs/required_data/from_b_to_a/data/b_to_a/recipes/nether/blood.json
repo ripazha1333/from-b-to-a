@@ -3,5 +3,5 @@
 "entity": "minecraft:zombified_piglin",
 "fluid": "fabricaeexnihilo:blood",
 "amount": 2700,
-"cooldown": 2000
+"cooldown": 20000
 }

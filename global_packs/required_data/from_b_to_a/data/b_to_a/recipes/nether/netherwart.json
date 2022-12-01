@@ -1,0 +1,7 @@
+{
+"type": "spectrum:anvil_crusing",
+"ingredient": {"item": "minecraft:nether_wart_block"},
+"crushedItemsPerPointOfDamage": 2,
+"experience": 1,
+"result": {"item":"minecraft:nether_wart","count":3}
+}
