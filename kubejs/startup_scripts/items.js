@@ -1,0 +1,11 @@
+onEvent('item.registry', event => {
+  event.create('mindustry:plastanium')
+  event.create('mindustry:phase_fabric')
+  event.create('mindustry:phase_string')
+  event.create('mindustry:pyratite')
+  event.create('mindustry:blast_compound')
+  event.create('mindustry:spore_pod')
+  event.create('mindustry:surge_alloy')
+  event.create('mindustry:graphite')
+  event.create('mindustry:metaglass')
+})

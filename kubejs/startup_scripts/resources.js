@@ -1,0 +1,11 @@
+onEvent('item.registry', event => {
+  event.create('mindustry:lead_ingot')
+  event.create('mindustry:lead_nugget')
+  event.create('mindustry:raw_lead')
+  event.create('createcompat:crushed_lead')
+  event.create('mindustry:titanium_ingot')
+  event.create('mindustry:titanium_nugget')
+  event.create('mindustry:raw_titanium')
+  event.create('fabricaeexnihilo:raw_titanium_piece')
+  event.create('createcompat:crushed_titanium')
+})

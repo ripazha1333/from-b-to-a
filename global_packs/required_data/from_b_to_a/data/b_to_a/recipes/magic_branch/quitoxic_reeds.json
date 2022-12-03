@@ -4,6 +4,6 @@
 "input": "minecraft:clay",
 "fluid": "#fabricaeexnihilo:true_water",
 "rolls": {
-"fabricaeexnihilo:flint_mesh": [0.1,0.1,0.1,0.1]
+"fabricaeexnihilo:flint_mesh": [0.1,0.1,0.1,0.1,0.5,0.5]
 }
 }

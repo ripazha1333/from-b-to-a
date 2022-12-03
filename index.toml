@@ -97,6 +97,10 @@ file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/
 hash = "3487b7f8125ff3fe5949bc39c6d756ab7004c82a256a50b0a726de13a80bc95e"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/crushed_netherack.json"
+hash = "dc9e791e7d8cccb6578a95a1dc6213dcd6315ccb3245b5394e6fb7e6aee2eb10"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/fel_pumpkin.json"
 hash = "f351dbf26852b97299c693482b296fd143126419a0d01eb6c8a79a525e7fc529"
 
@@ -114,7 +118,7 @@ hash = "f1f79eccd5f2dbac3b440f281238cb190c80e2005aca9f9d16499671e18349fb"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/quitoxic_reeds.json"
-hash = "e40926b4d90d08be213537435658d67a3fe41c9ba8d77407f053d6dace0cf3d7"
+hash = "b1feb045694139d2af21be0676f0d0d801efe5fa972627cdc47901a964295047"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/shimmerstone.json"
@@ -146,7 +150,7 @@ hash = "9a956fc24f260ca2f2cd18cb0bf02594ff179eac71889e6b3e25062dc368797e"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/netherwart.json"
-hash = "44cb82fb0746e2d63bebd7d58ae09c1c0085094bba61632a85d2ea69dddc9ec0"
+hash = "e901ca95bb05b047362db4a7f1ee56f0c82927cc3ba01f76ba1f800cdcca6b4c"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/warped_seeds.json"
@@ -166,11 +170,11 @@ hash = "91a17a6422d50b59be67d67ce396b6edca677ea03a55cd23b8341ccc292f6e71"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/ore/diamond.json"
-hash = "175d30149ed065142be1f0162d1567b07b24d06c0afa99a10c720e35812859ff"
+hash = "984060a43f06e17d82ce2038dcd166c97a1f8cc3518a733dc0b375f54e24ab4a"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/ore/emerald.json"
-hash = "3b56c028105c78ffee8ac4e1d1663bf633fc71fdde059fd7cf089ad7ed5abd6c"
+hash = "6dc25e183493e77cb568667d22bcd90293cfd63dbd094fcecb227b3a5725aa59"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/plants/brown_mushroom.json"
@@ -239,6 +243,22 @@ hash = "2967daad158c7f30746947d72abfc2ee1680f40047d3c2265e6fd44c837a68d9"
 [[files]]
 file = "global_packs/required_data/from_b_to_a/pack.mcmeta"
 hash = "aef559e95120d374a009740d2e1b5f8910f5593bcacc749669e836261f386e0f"
+
+[[files]]
+file = "kubejs/startup_scripts/blocks.js"
+hash = "18f2ede536e24646ad8e55f6016036e10839461c9d82467c84f26437e4c08774"
+
+[[files]]
+file = "kubejs/startup_scripts/fluids.js"
+hash = "a854f3bc2d53061108a2e9840ba8e1044c71fccea70d554b96fce925feb8bce8"
+
+[[files]]
+file = "kubejs/startup_scripts/items.js"
+hash = "4c19c6250aa4b1dda867c8fb1872af8c288ed3fb1026f30f9162cc4885b540f9"
+
+[[files]]
+file = "kubejs/startup_scripts/resources.js"
+hash = "4176111e9d4f765b954f2b6534ca19c76a226041ab7245caf5f8b23046d95e6d"
 
 [[files]]
 file = "mods/addadd.pw.toml"

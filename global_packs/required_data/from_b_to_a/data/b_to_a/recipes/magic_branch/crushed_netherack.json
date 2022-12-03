@@ -1,0 +1,12 @@
+{
+"type": "spectrum:anvil_crushing",
+"ingredient": {"item": "minecraft:calcite"},
+"crushedItemsPerPointOfDamage": 0.5,
+"experience": 1,
+"result": {
+"item": "fabricaeexnihilo:crushed_calcite",
+"count": 1
+},
+"particleEffectIdentifier": "cloud",
+"soundEventIdentifier": "block.calcite.break"
+}
