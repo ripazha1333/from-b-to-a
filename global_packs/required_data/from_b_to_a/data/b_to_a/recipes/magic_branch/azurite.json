@@ -1,0 +1,8 @@
+{
+"type":"fabricaeexnihilo:sieve",
+"result":"spectrum:raw_azurite",
+"input":"fabricaeexnihilo:silt",
+"rolls":{
+"fabricaeexnihilo:netherite_mesh":[0.03,0.02,0.01]
+}
+}

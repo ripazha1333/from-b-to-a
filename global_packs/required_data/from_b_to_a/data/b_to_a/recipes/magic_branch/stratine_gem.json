@@ -1,0 +1,8 @@
+{
+"type": "fabricaeexnihilo:sieve",
+"result": "spectrum:scarlet_gem",
+"input": "fabricaeexnihilo:crushed_netherrack",
+"rolls": {
+"fabricaeexnihilo:emerald_mesh": [0.05]
+}
+}

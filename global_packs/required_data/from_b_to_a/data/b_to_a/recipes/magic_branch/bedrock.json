@@ -1,0 +1,19 @@
+{
+"type": "spectrum:fusion_shrine",
+"time": 2400,
+"experience": 10.0,
+"fluid": "spectrum:midnight_solution",
+"ingredients":[
+{"item":"spectrum:bedrock_dust"},
+{"item":"b2a:bamboo_string_singularity", "count":2},
+{"item":"b2a:stone_singularity", "count":2},
+{"item":"b2a:nether_alloy_singularity", "count":2}
+],
+"result": {"item":"minecraft:bedrock"},
+"required_advancement": "spectrum/midgame/break_decayed_bedrock",
+"world_conditions": [],
+"start_crafting_effect":"weather_thunder",
+"during_crafting_effects":["visual_explosions_on_shrine","nothing","visual_explosions_on_shrine","visual_explosions_on_shrine","visual_explosions_on_shrine","nothing"],
+"finish_crafting_effect":"lightning_around_shrine",
+"description":"b2a.recipe.fusion_shrine.explanation.bedrock"
+}

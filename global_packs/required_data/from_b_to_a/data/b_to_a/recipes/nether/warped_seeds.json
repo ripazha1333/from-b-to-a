@@ -5,7 +5,6 @@
 "rolls": {
 "fabricaeexnihilo:flint_mesh": [0.05],
 "fabricaeexnihilo:copper_mesh": [0.1],
-"fabricaeexnihilo:gold_mesh": [0.17,0.07],
-"fabricaeexnihilo:emerald_mesh": [0.3,0.25,0.7,0.3]
+"fabricaeexnihilo:gold_mesh": [0.17,0.07]
 }
 }

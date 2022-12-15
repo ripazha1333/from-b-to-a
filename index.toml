@@ -13,18 +13,6 @@ file = "config/skyblockcreator/structures/bamboo.nbt"
 hash = "fd236f093538cde61add64a5a0217c994206080b843e1383030b736a021c4bb1"
 
 [[files]]
-file = "config/skyblockcreator/structures/classic_skyblock.nbt"
-hash = "5f41551ed092a626b3a7d2350154c8dd080f4f6d1fbd37cf2071521d54cb3af3"
-
-[[files]]
-file = "config/skyblockcreator/structures/simple_tree.nbt"
-hash = "7fa32e27984198727ab33ec2b59eaaadc65e8706feba4ccd4d097f870d863501"
-
-[[files]]
-file = "config/skyblockcreator/structures/stoneblock.nbt"
-hash = "5acdfefc4ec9c0b498dd6cb7859e397f6c5872ed5ff59f7904492a89387a0d69"
-
-[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/functions/checkbonemeal.mcfunction"
 hash = "6106984c02b8e48350bade6687519532290f684376b62cbc528c3a121299d2f9"
 
@@ -125,6 +113,14 @@ file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/
 hash = "da303efcdb345e3e0c950d5f28e96befe6817f8090ebf164dadc416b4008cb2d"
 
 [[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/stratine.json"
+hash = "d3634ccf503e8d47ea0950e2d1b47af8865f6621e3d02a64db1843ecff37c697"
+
+[[files]]
+file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/stratine_gem.json"
+hash = "7ea3766f1e0c9ba8c9e2db560e6d9bc5d0d814c28296edabed852cbe36e2a5d4"
+
+[[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/magic_branch/water.json"
 hash = "dac3a5d48ce2dd75a199e90db0b664a1a24331612b0400638517e1f4ed2e5102"
 
@@ -134,7 +130,7 @@ hash = "b8276786c9e8fa958c0a4e7d26c9aba313abd6d0418d9039bbbef538ad6cf2f5"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/crimson_seeds.json"
-hash = "5a08984be85776101c4d45a836e254d122a1cca7ed1cc0ce851788191db5ad53"
+hash = "a5753f24f603eb7671f725fdcafab08a183c78395a6feac0ff7db2af0212dcd5"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/crushed_netherack.json"
@@ -154,7 +150,7 @@ hash = "e901ca95bb05b047362db4a7f1ee56f0c82927cc3ba01f76ba1f800cdcca6b4c"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/nether/warped_seeds.json"
-hash = "00ac2a5316d1952f038bc54d71a4a2f7fa728817077882a1ed19f77d49839213"
+hash = "56086a49c436fa66f80a4ce176da46847ce778db4a357471ff758e373d1d5a53"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/gemstones/amethyst.json"
@@ -170,11 +166,11 @@ hash = "91a17a6422d50b59be67d67ce396b6edca677ea03a55cd23b8341ccc292f6e71"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/ore/diamond.json"
-hash = "984060a43f06e17d82ce2038dcd166c97a1f8cc3518a733dc0b375f54e24ab4a"
+hash = "2913fdc129fa0f313b9bf8a4796baf1027ec77aef63b8895c751c9aa783380e1"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/ore/emerald.json"
-hash = "6dc25e183493e77cb568667d22bcd90293cfd63dbd094fcecb227b3a5725aa59"
+hash = "c963e55a4890d99bccfa841d2322d5719b499dde6300cac4934a827ba1aadecd"
 
 [[files]]
 file = "global_packs/required_data/from_b_to_a/data/b_to_a/recipes/sieve/plants/brown_mushroom.json"
@@ -436,11 +432,6 @@ hash = "b99c1cae57386de36e5a6dc1d247057d0d5c0e9c5a5563b67d078ea7975919a9"
 metafile = true
 
 [[files]]
-file = "mods/notebook.pw.toml"
-hash = "0da6c7b23a991aefa7abe9c43afba933907a286aa3afa89cda327f8c2e1ba6bc"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "e9c12e125dc3e4f5d9172a5866655be12f558c6a58c3753aa3f7a9db4c365efc"
 metafile = true
@@ -453,11 +444,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "88d781b0098eb2a87eba798af21580139425d85ab34065b7f0917d86bd084f4c"
-metafile = true
-
-[[files]]
-file = "mods/powah.pw.toml"
-hash = "b093a04f49790678a153b26fbd0c438f7ec65a6851fc53ca2d6344d8fae4a73b"
 metafile = true
 
 [[files]]
