@@ -1,13 +1,13 @@
 name = "More Geodes"
-filename = "more-geodes-1.4.2.jar"
+filename = "more-geodes-1.6.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/oGmBThKh/versions/1.4.2/more-geodes-1.4.2.jar"
+url = "https://cdn.modrinth.com/data/oGmBThKh/versions/wCAKtdAY/more-geodes-1.6.3.jar"
 hash-format = "sha1"
-hash = "685d9409db69a1656640d72faa8abc2e1dc6246f"
+hash = "b9948f7efdd2481b195d25b431f6ee4a54af8e77"
 
 [update]
 [update.modrinth]
 mod-id = "oGmBThKh"
-version = "2agkMY8D"
+version = "wCAKtdAY"

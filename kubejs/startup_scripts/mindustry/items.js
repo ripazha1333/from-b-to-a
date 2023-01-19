@@ -1,4 +1,4 @@
-onEvent('item.registry', event => {
+StartupEvents.registry('item', event => {
   event.create('mindustry:plastanium')
   event.create('mindustry:phase_fabric')
   event.create('mindustry:phase_string')

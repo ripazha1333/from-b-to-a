@@ -1,9 +1,0 @@
-{
-"type": "minecraft:crafting_shaped",
-"pattern": ["ooo","oxo","ooo"],
-"key": {
-"o":{"item":"minecraft:oak_sapling"},
-"x":{"item":"minecraft:bowl"}
-},
-"result": {"item":"botania:water_bowl"}
-}

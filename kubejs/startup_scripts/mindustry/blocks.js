@@ -1,4 +1,4 @@
-onEvent('block.registry', event => {
+StartupEvents.registry('block', event => {
   event.create('mindustry:titanium_block')
   event.create('mindustry:raw_titanium_block')
   event.create('mindustry:lead_block')

@@ -1,4 +1,4 @@
-onEvent('item.registry', event => {
+StartupEvents.registry('item', event => {
   event.create('mindustry:lead_ingot')
   event.create('mindustry:lead_nugget')
   event.create('mindustry:raw_lead')

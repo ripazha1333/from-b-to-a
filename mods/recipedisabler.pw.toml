@@ -3,11 +3,11 @@ filename = "Recipedisabler-1.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/j8Zf5rUr/versions/IV2H3ctT/Recipedisabler-1.3.2.jar"
+url = "https://cdn.modrinth.com/data/j8Zf5rUr/versions/Hg69rL4K/Recipedisabler-1.3.2.jar"
 hash-format = "sha1"
-hash = "e0cc3c2a30fc3c7d2f43b0fe347331fe8456ad55"
+hash = "d08740e758bf877654e93a81128703c35b1f828c"
 
 [update]
 [update.modrinth]
 mod-id = "j8Zf5rUr"
-version = "IV2H3ctT"
+version = "Hg69rL4K"
